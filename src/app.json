@@ -1,8 +1,0 @@
-{
-    "url": "/app/issues",
-    "name": "issues",
-    "description": "Issues App",
-	"icon_slds": "event" ,
-    "is_creator": true,
-    "objects": ["project_issues", "project_tags", "projects", "reports"]
-}

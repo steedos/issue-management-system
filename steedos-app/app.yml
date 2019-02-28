@@ -1,0 +1,10 @@
+_id: issues
+name: 问题
+description: Issues App
+icon_slds: event
+is_creator: true
+objects: 
+  - project_issues
+  - project_tags
+  - projects
+  - reports
